@@ -1,5 +1,8 @@
 Test1
 
+<<<<<<< HEAD
 
 dodan novi tekst u Drugi commit, test za --amend
 
+=======
+>>>>>>> refs/remotes/origin/main
