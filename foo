@@ -1,3 +1,5 @@
+
+
 Test1
 
 <<<<<<< HEAD
@@ -9,4 +11,7 @@ dodan novi tekst u Drugi commit, test za --amend
 
 
 ovo je napravljeno u grani Development sada i commitano
+
+Dodana druga grana ponovno nakon brisanja
+
 
